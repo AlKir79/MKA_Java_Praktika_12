@@ -83,6 +83,9 @@ public class MyArrOper {
         }
         return temp;
     }
-
+    public static boolean findEl(int arr[],int digit){
+        if()
+        return ;
+    }
 
 }
